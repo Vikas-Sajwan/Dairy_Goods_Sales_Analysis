@@ -56,6 +56,8 @@ OBJECTIVES-:
 9.	What is the highest selling product's total quantity sold?
 10.	How does total revenue vary by product brand?
 
+Screenshot :-
+https://github.com/Vikas-Sajwan/Dairy_Goods_Sales_Analysis/blob/main/Dashboard%20Screenshot.png
 
 Feel free to open an issue or submit a pull request for improvements or new visual ideas. Your contributions are welcome!
 
