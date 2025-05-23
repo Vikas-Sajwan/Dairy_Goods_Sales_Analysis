@@ -59,9 +59,11 @@ Screenshot :-
 ![image alt](https://github.com/Vikas-Sajwan/Dairy_Goods_Sales_Analysis/blob/main/Dashboard%20Screenshot.png)
 
 🤝 Contributions
+
 Feel free to fork the repository and submit pull requests to improve or add new queries.
 
 📄 License
+
 This project is licensed under the MIT License.
 
 
