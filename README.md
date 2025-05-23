@@ -42,8 +42,7 @@ This project includes:
 - ✅ **Visual Recommendations** (Line charts, Bar charts, Matrices, KPIs, Cards, Treemaps)
 - ✅ **Expiration Date Alerts**
 
-
-OBJECTIVES-:
+🎯 Project Objectives:-
 
 1.	What is the total revenue generated per product brand?
 2.	Show top 5 products by total revenue?
@@ -59,7 +58,13 @@ OBJECTIVES-:
 Screenshot :-
 ![image alt](https://github.com/Vikas-Sajwan/Dairy_Goods_Sales_Analysis/blob/main/Dashboard%20Screenshot.png)
 
-Feel free to open an issue or submit a pull request for improvements or new visual ideas. Your contributions are welcome!
+🤝 Contributions
+Feel free to fork the repository and submit pull requests to improve or add new queries.
+
+📄 License
+This project is licensed under the MIT License.
+
+
 
 
  
